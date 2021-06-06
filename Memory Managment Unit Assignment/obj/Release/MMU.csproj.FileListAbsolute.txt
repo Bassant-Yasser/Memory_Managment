@@ -1,0 +1,9 @@
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Release\MMU.exe.config
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Release\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Release\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.csprojResolveAssemblyReference.cache
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.Form1.resources
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.Properties.Resources.resources
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.csproj.GenerateResource.Cache
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Release\MMU.pdb

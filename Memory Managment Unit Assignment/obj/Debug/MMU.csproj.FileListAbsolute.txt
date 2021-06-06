@@ -1,0 +1,48 @@
+C:\Users\ah132\source\repos\MMU\bin\Debug\MMU.exe.config
+C:\Users\ah132\source\repos\MMU\bin\Debug\MMU.exe
+C:\Users\ah132\source\repos\MMU\bin\Debug\MMU.pdb
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.csprojAssemblyReference.cache
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.Form1.resources
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.Properties.Resources.resources
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.csproj.GenerateResource.cache
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.csproj.CoreCompileInputs.cache
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.exe
+C:\Users\ah132\source\repos\MMU\obj\Debug\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\bin\Debug\MMU.exe.config
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\bin\Debug\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\bin\Debug\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.csprojResolveAssemblyReference.cache
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.Properties.Resources.resources
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.GenerateResource.Cache
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Assignments\Memory Managment Unit Assignment\obj\Debug\MMU.Form1.resources
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.AssemblyReference.cache
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.Form1.resources
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.Properties.Resources.resources
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.GenerateResource.cache
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.CoreCompileInputs.cache
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.exe
+E:\Memory Managment Unit Assignment\obj\Debug\MMU.pdb
+E:\Memory Managment Unit Assignment\bin\Debug\MMU.exe.config
+E:\Memory Managment Unit Assignment\bin\Debug\MMU.exe
+E:\Memory Managment Unit Assignment\bin\Debug\MMU.pdb
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\bin\Debug\MMU.exe.config
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\bin\Debug\MMU.exe
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\bin\Debug\MMU.pdb
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.Form1.resources
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.exe
+C:\Users\Lenovo\Desktop\Memory Managment Unit Assignment\obj\Debug\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Debug\MMU.exe.config
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Debug\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\bin\Debug\MMU.pdb
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.csprojResolveAssemblyReference.cache
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.Form1.resources
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.Properties.Resources.resources
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.csproj.GenerateResource.Cache
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.exe
+D:\Bassant\3rd CSE Second term\OS\Memory Managment Unit Assignment\Memory Managment Unit Assignment\obj\Debug\MMU.pdb
