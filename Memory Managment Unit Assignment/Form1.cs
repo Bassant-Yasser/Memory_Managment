@@ -28,7 +28,8 @@ namespace MMU
     {
         int memory_size = 0;
         private readonly static Stack<int> HolesGone = new Stack<int>();
-        int size, Holesum = 0, Holenum = 0, Oldnum = 0;
+        int size, Holesum = 0, Holenum = 0, Oldnum = 0, flag = 0, holeflag = 1, pflag = 1, Deallocate = 0;
+        Hole Holes;
         Segment SG;
         Process PS;
         List<Hole> Hole_List = new List<Hole>();
